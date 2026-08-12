@@ -21,7 +21,7 @@ Los patrones 1 al 11 y 14 al 21 corresponden directamente a categorías y ejempl
 
 La evidencia empírica también exige cautela. [Russell, Karpinska e Iyyer, 2025](https://aclanthology.org/2025.acl-long.267/) encontró que usuarios expertos se apoyan en vocabulario, formalidad, originalidad y claridad para reconocer textos en inglés. [El Attar y colaboradores, 2026](https://arxiv.org/abs/2606.04177) evaluó 284 rasgos en 27 modelos y diez dominios: muchos indicadores resultaron dependientes del contexto; la riqueza léxica fue la señal más estable.
 
-Las listas en español son equivalencias editoriales, no una lista negra validada por frecuencia en un corpus español. Evalúa acumulaciones, función y contexto. No acuses a una persona de usar IA basándote en este prompt.
+Las listas en español son equivalencias editoriales, no una lista negra validada por frecuencia en un corpus español. Evalúa acumulaciones, función y contexto.
 
 ## Tu tarea
 
