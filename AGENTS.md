@@ -2,10 +2,10 @@
 
 Notas públicas de trabajo de Diego (licencia MIT). `CLAUDE.md` es un hard link de este archivo.
 
-- `1.quickref/prompts/Humanizador de texto en español.md`: **el humanizador**, la guía que deben
-  seguir todos los textos en español que se escriban para Diego o sus sitios (sdlv, museo…).
-  Otros repos lo citan con esta ruta: `~/src/sctratchpad/1.quickref/prompts/Humanizador de texto en español.md`.
-  Si lo mueves o renombras, actualiza esas referencias.
+- `1.quickref/prompts/Humanizador de texto en español.md`: la primera versión del humanizador en
+  español (basada en humanizer 2.9.1). **La versión mantenida es la skill `humanizador`**
+  (`~/src/humanizador`, github.com/donutinit/humanizador): úsala a ella para escribir. Esta nota
+  queda como referencia.
 - `1.scratchpad/`: notas sueltas.
 
 ## Reglas
